@@ -1,3 +1,11 @@
+ATTENTION!!!
+
+Implemented Equihash algorithm requires sodium package to be installed.
+
+sudo apt install libsodium-dev
+------------------------------
+
+
 node-multi-hashing
 ===============
 
